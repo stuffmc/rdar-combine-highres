@@ -18,6 +18,12 @@
 		4C1A58EC1854D3F3008F75A0 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C1A58CB1854D3F2008F75A0 /* Cocoa.framework */; };
 		4C1A58F41854D3F3008F75A0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4C1A58F21854D3F3008F75A0 /* InfoPlist.strings */; };
 		4C1A58F61854D3F3008F75A0 /* rdar_combine_highresTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C1A58F51854D3F3008F75A0 /* rdar_combine_highresTests.m */; };
+		4C1A59031854D4FD008F75A0 /* j-gruene.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C1A58FF1854D4FD008F75A0 /* j-gruene.jpg */; };
+		4C1A59041854D4FD008F75A0 /* gruene.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C1A59001854D4FD008F75A0 /* gruene.png */; };
+		4C1A59051854D4FD008F75A0 /* j-gruene@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C1A59011854D4FD008F75A0 /* j-gruene@2x.jpg */; };
+		4C1A59061854D4FD008F75A0 /* gruene@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C1A59021854D4FD008F75A0 /* gruene@2x.png */; };
+		4C1A59081854D7EF008F75A0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4C1A59071854D7EF008F75A0 /* README.md */; };
+		4C1A590C1854D8AF008F75A0 /* gruene.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 4C1A590B1854D8AF008F75A0 /* gruene.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +56,12 @@
 		4C1A58F11854D3F3008F75A0 /* rdar-combine-highresTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "rdar-combine-highresTests-Info.plist"; sourceTree = "<group>"; };
 		4C1A58F31854D3F3008F75A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4C1A58F51854D3F3008F75A0 /* rdar_combine_highresTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rdar_combine_highresTests.m; sourceTree = "<group>"; };
+		4C1A58FF1854D4FD008F75A0 /* j-gruene.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "j-gruene.jpg"; sourceTree = SOURCE_ROOT; };
+		4C1A59001854D4FD008F75A0 /* gruene.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gruene.png; sourceTree = SOURCE_ROOT; };
+		4C1A59011854D4FD008F75A0 /* j-gruene@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "j-gruene@2x.jpg"; sourceTree = SOURCE_ROOT; };
+		4C1A59021854D4FD008F75A0 /* gruene@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gruene@2x.png"; sourceTree = SOURCE_ROOT; };
+		4C1A59071854D7EF008F75A0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		4C1A590B1854D8AF008F75A0 /* gruene.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = gruene.pdf; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +88,7 @@
 		4C1A58BF1854D3F2008F75A0 = {
 			isa = PBXGroup;
 			children = (
+				4C1A59071854D7EF008F75A0 /* README.md */,
 				4C1A58D11854D3F2008F75A0 /* rdar-combine-highres */,
 				4C1A58EF1854D3F3008F75A0 /* rdar-combine-highresTests */,
 				4C1A58CA1854D3F2008F75A0 /* Frameworks */,
@@ -115,6 +128,11 @@
 		4C1A58D11854D3F2008F75A0 /* rdar-combine-highres */ = {
 			isa = PBXGroup;
 			children = (
+				4C1A590B1854D8AF008F75A0 /* gruene.pdf */,
+				4C1A58FF1854D4FD008F75A0 /* j-gruene.jpg */,
+				4C1A59001854D4FD008F75A0 /* gruene.png */,
+				4C1A59011854D4FD008F75A0 /* j-gruene@2x.jpg */,
+				4C1A59021854D4FD008F75A0 /* gruene@2x.png */,
 				4C1A58DD1854D3F2008F75A0 /* AppDelegate.h */,
 				4C1A58DE1854D3F2008F75A0 /* AppDelegate.m */,
 				4C1A58E01854D3F2008F75A0 /* MainMenu.xib */,
@@ -230,10 +248,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C1A59061854D4FD008F75A0 /* gruene@2x.png in Resources */,
+				4C1A590C1854D8AF008F75A0 /* gruene.pdf in Resources */,
 				4C1A58D61854D3F2008F75A0 /* InfoPlist.strings in Resources */,
 				4C1A58E41854D3F2008F75A0 /* Images.xcassets in Resources */,
 				4C1A58DC1854D3F2008F75A0 /* Credits.rtf in Resources */,
+				4C1A59051854D4FD008F75A0 /* j-gruene@2x.jpg in Resources */,
 				4C1A58E21854D3F2008F75A0 /* MainMenu.xib in Resources */,
+				4C1A59081854D7EF008F75A0 /* README.md in Resources */,
+				4C1A59031854D4FD008F75A0 /* j-gruene.jpg in Resources */,
+				4C1A59041854D4FD008F75A0 /* gruene.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
