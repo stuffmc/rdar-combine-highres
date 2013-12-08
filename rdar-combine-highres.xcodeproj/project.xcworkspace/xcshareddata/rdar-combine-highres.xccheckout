@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D0EFA343-B775-4326-A0FE-232628914152</string>
+	<key>IDESourceControlProjectName</key>
+	<string>rdar-combine-highres</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>13334CCC-88C2-4B35-8D76-4B241F9C52EB</key>
+		<string>https://github.com/stuffmc/rdar-combine-highres.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>rdar-combine-highres.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>13334CCC-88C2-4B35-8D76-4B241F9C52EB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stuffmc/rdar-combine-highres.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>13334CCC-88C2-4B35-8D76-4B241F9C52EB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>13334CCC-88C2-4B35-8D76-4B241F9C52EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rdar-combine-highres</string>
+		</dict>
+	</array>
+</dict>
+</plist>
